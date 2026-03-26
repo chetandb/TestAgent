@@ -1,0 +1,2944 @@
+{
+  "start_url": "https://www.happiesthealth.com",
+  "pages_explored": 5,
+  "cases_executed": 330,
+  "passed": 141,
+  "failed": 9,
+  "errors": 180,
+  "details": [
+    {
+      "id": "load-start-url",
+      "description": "Start URL loads without network error: https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "page-status-2",
+      "description": "Page https://www.happiesthealth.com returns 200 or 2xx status code",
+      "target": "https://www.happiesthealth.com",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-3",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-4",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-5",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-6",
+      "description": "Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-7",
+      "description": "Internal link https://www.happiesthealth.com/login resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-8",
+      "description": "Internal link https://www.happiesthealth.com/all-categories resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/all-categories",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-9",
+      "description": "Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-10",
+      "description": "Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-11",
+      "description": "Internal link https://www.happiesthealth.com/premium-newsletter/diabetes resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/premium-newsletter/diabetes",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-12",
+      "description": "Internal link https://www.happiesthealth.com/healthcards resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/healthcards",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-13",
+      "description": "Internal link https://www.happiesthealth.com/discussions resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/discussions",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-14",
+      "description": "Internal link https://www.happiesthealth.com/editors-pick-2 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/editors-pick-2",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-15",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/all-magazines resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/all-magazines",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-16",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-17",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-18",
+      "description": "Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1",
+      "status": "failed",
+      "details": {
+        "http_status": 403
+      },
+      "passed": false
+    },
+    {
+      "id": "internal-link-19",
+      "description": "Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1",
+      "status": "failed",
+      "details": {
+        "http_status": 403
+      },
+      "passed": false
+    },
+    {
+      "id": "internal-link-20",
+      "description": "Internal link https://www.happiesthealth.com/askanexpert resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/askanexpert",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-21",
+      "description": "Internal link https://www.happiesthealth.com/askanexpert/postquery resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/askanexpert/postquery",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-22",
+      "description": "Internal link https://www.happiesthealth.com/webstory-landing resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/webstory-landing",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-23",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-24",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-25",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-26",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-27",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-28",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-29",
+      "description": "Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-30",
+      "description": "Internal link https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-31",
+      "description": "Internal link https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-32",
+      "description": "Internal link https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-33",
+      "description": "Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-34",
+      "description": "Internal link https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-35",
+      "description": "Internal link https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-36",
+      "description": "Internal link https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-37",
+      "description": "Internal link https://www.happiesthealth.com/quiz-listing resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/quiz-listing",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-38",
+      "description": "Internal link https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-39",
+      "description": "Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-40",
+      "description": "Internal link https://www.happiesthealth.com/testimonials resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-41",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-42",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-43",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-44",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-45",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-46",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-47",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-48",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-49",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-50",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-51",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-52",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-53",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-54",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-55",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-56",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-57",
+      "description": "Internal link https://www.happiesthealth.com/about-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/about-us",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-58",
+      "description": "Internal link https://www.happiesthealth.com/contact-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/contact-us",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-59",
+      "description": "Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/privacy-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-60",
+      "description": "Internal link https://www.happiesthealth.com/editorial-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/editorial-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-61",
+      "description": "Internal link https://www.happiesthealth.com/cancellation-and-refund-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/cancellation-and-refund-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-62",
+      "description": "Internal link https://www.happiesthealth.com/careers resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/careers",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-63",
+      "description": "Internal link https://www.happiesthealth.com/shipping-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/shipping-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-64",
+      "description": "Internal link https://www.happiesthealth.com/magazine-feedback resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-feedback",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-65",
+      "description": "Internal link https://www.happiesthealth.com/faqs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/faqs",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-66",
+      "description": "Internal link https://www.happiesthealth.com/terms-of-use resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/terms-of-use",
+      "status": "failed",
+      "details": {
+        "http_status": 403
+      },
+      "passed": false
+    },
+    {
+      "id": "internal-link-67",
+      "description": "Internal link https://www.happiesthealth.com/advertising-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/advertising-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-68",
+      "description": "Internal link https://www.happiesthealth.com/leadership resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/leadership",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-69",
+      "description": "Internal link https://www.happiesthealth.com/investors resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/investors",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "form-fields-70",
+      "description": "Form on https://www.happiesthealth.com has fields and can be validated for required fields",
+      "target": "https://www.happiesthealth.com",
+      "status": "failed",
+      "details": {
+        "required_fields": [],
+        "info": "No explicitly required fields detected."
+      },
+      "passed": false
+    },
+    {
+      "id": "buttons-count-71",
+      "description": "Page https://www.happiesthealth.com has 32 button(s)",
+      "target": "https://www.happiesthealth.com",
+      "status": "passed",
+      "details": null,
+      "passed": true
+    },
+    {
+      "id": "page-status-72",
+      "description": "Page https://www.happiesthealth.com/ returns 200 or 2xx status code",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-73",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-74",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-75",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-76",
+      "description": "Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-77",
+      "description": "Internal link https://www.happiesthealth.com/login resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-78",
+      "description": "Internal link https://www.happiesthealth.com/all-categories resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/all-categories",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-79",
+      "description": "Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-80",
+      "description": "Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-81",
+      "description": "Internal link https://www.happiesthealth.com/premium-newsletter/diabetes resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/premium-newsletter/diabetes",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-82",
+      "description": "Internal link https://www.happiesthealth.com/healthcards resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/healthcards",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-83",
+      "description": "Internal link https://www.happiesthealth.com/discussions resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/discussions",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-84",
+      "description": "Internal link https://www.happiesthealth.com/editors-pick-2 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/editors-pick-2",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-85",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/all-magazines resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/all-magazines",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-86",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-87",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-88",
+      "description": "Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1",
+      "status": "failed",
+      "details": {
+        "http_status": 403
+      },
+      "passed": false
+    },
+    {
+      "id": "internal-link-89",
+      "description": "Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1",
+      "status": "failed",
+      "details": {
+        "http_status": 403
+      },
+      "passed": false
+    },
+    {
+      "id": "internal-link-90",
+      "description": "Internal link https://www.happiesthealth.com/askanexpert resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/askanexpert",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-91",
+      "description": "Internal link https://www.happiesthealth.com/askanexpert/postquery resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/askanexpert/postquery",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-92",
+      "description": "Internal link https://www.happiesthealth.com/webstory-landing resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/webstory-landing",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-93",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-94",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-95",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-96",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-97",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-98",
+      "description": "Internal link https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-99",
+      "description": "Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-100",
+      "description": "Internal link https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-101",
+      "description": "Internal link https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-102",
+      "description": "Internal link https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-103",
+      "description": "Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-104",
+      "description": "Internal link https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-105",
+      "description": "Internal link https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-106",
+      "description": "Internal link https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-107",
+      "description": "Internal link https://www.happiesthealth.com/quiz-listing resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/quiz-listing",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-108",
+      "description": "Internal link https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-109",
+      "description": "Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-110",
+      "description": "Internal link https://www.happiesthealth.com/testimonials resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-111",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-112",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-113",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-114",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-115",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-116",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-117",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-118",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-119",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-120",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-121",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-122",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-123",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-124",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-125",
+      "description": "Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-126",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-127",
+      "description": "Internal link https://www.happiesthealth.com/about-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/about-us",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-128",
+      "description": "Internal link https://www.happiesthealth.com/contact-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/contact-us",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-129",
+      "description": "Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/privacy-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-130",
+      "description": "Internal link https://www.happiesthealth.com/editorial-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/editorial-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-131",
+      "description": "Internal link https://www.happiesthealth.com/cancellation-and-refund-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/cancellation-and-refund-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-132",
+      "description": "Internal link https://www.happiesthealth.com/careers resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/careers",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-133",
+      "description": "Internal link https://www.happiesthealth.com/shipping-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/shipping-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-134",
+      "description": "Internal link https://www.happiesthealth.com/magazine-feedback resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-feedback",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-135",
+      "description": "Internal link https://www.happiesthealth.com/faqs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/faqs",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-136",
+      "description": "Internal link https://www.happiesthealth.com/terms-of-use resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/terms-of-use",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-137",
+      "description": "Internal link https://www.happiesthealth.com/advertising-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/advertising-policy",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-138",
+      "description": "Internal link https://www.happiesthealth.com/leadership resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/leadership",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-139",
+      "description": "Internal link https://www.happiesthealth.com/investors resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/investors",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "form-fields-140",
+      "description": "Form on https://www.happiesthealth.com/ has fields and can be validated for required fields",
+      "target": "https://www.happiesthealth.com/",
+      "status": "failed",
+      "details": {
+        "required_fields": [],
+        "info": "No explicitly required fields detected."
+      },
+      "passed": false
+    },
+    {
+      "id": "buttons-count-141",
+      "description": "Page https://www.happiesthealth.com/ has 32 button(s)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": null,
+      "passed": true
+    },
+    {
+      "id": "page-status-142",
+      "description": "Page https://www.happiesthealth.com/magazine-subscription returns 200 or 2xx status code",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-143",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-144",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-145",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "passed",
+      "details": {
+        "http_status": 200
+      },
+      "passed": true
+    },
+    {
+      "id": "internal-link-146",
+      "description": "Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Read timed out. (read timeout=10)",
+      "passed": false
+    },
+    {
+      "id": "internal-link-147",
+      "description": "Internal link https://www.happiesthealth.com/login resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /login (Caused by NewConnectionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-148",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /magazine-subscription/reader?id=9004111222911223 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-149",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /magazine-subscription/reader?id=9004111222911223 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-150",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-151",
+      "description": "Internal link https://www.happiesthealth.com/about-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/about-us",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /about-us (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-152",
+      "description": "Internal link https://www.happiesthealth.com/contact-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/contact-us",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /contact-us (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-153",
+      "description": "Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/privacy-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /privacy-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-154",
+      "description": "Internal link https://www.happiesthealth.com/editorial-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/editorial-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /editorial-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-155",
+      "description": "Internal link https://www.happiesthealth.com/cancellation-and-refund-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/cancellation-and-refund-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /cancellation-and-refund-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-156",
+      "description": "Internal link https://www.happiesthealth.com/careers resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/careers",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-157",
+      "description": "Internal link https://www.happiesthealth.com/shipping-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/shipping-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /shipping-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-158",
+      "description": "Internal link https://www.happiesthealth.com/magazine-feedback resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-feedback",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /magazine-feedback (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-159",
+      "description": "Internal link https://www.happiesthealth.com/faqs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/faqs",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /faqs (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-160",
+      "description": "Internal link https://www.happiesthealth.com/terms-of-use resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/terms-of-use",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /terms-of-use (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-161",
+      "description": "Internal link https://www.happiesthealth.com/advertising-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/advertising-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /advertising-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-162",
+      "description": "Internal link https://www.happiesthealth.com/leadership resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/leadership",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /leadership (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-163",
+      "description": "Internal link https://www.happiesthealth.com/investors resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/investors",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /investors (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "form-fields-164",
+      "description": "Form on https://www.happiesthealth.com/magazine-subscription has fields and can be validated for required fields",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "failed",
+      "details": {
+        "required_fields": [],
+        "info": "No explicitly required fields detected."
+      },
+      "passed": false
+    },
+    {
+      "id": "buttons-count-165",
+      "description": "Page https://www.happiesthealth.com/magazine-subscription has 43 button(s)",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "passed",
+      "details": null,
+      "passed": true
+    },
+    {
+      "id": "page-status-166",
+      "description": "Page https://www.happiesthealth.com/wellnessprograms returns 200 or 2xx status code",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellnessprograms (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-167",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-168",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-169",
+      "description": "Internal link https://www.happiesthealth.com/magazine-subscription resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /magazine-subscription (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-170",
+      "description": "Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellnessprograms (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-171",
+      "description": "Internal link https://www.happiesthealth.com/login resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /login (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-172",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-173",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/happiest-her-2026 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/happiest-her-2026",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/happiest-her-2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-174",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/get-set-grow-2025 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/get-set-grow-2025",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/get-set-grow-2025 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-175",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/ethics-in-healthcare-2025 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/ethics-in-healthcare-2025",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/ethics-in-healthcare-2025 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-176",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/gut-microbiome-101 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/gut-microbiome-101",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/gut-microbiome-101 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-177",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/happiest_her_2025 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/happiest_her_2025",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/happiest_her_2025 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-178",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/technology_innovations_in_healthcare_2025 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/technology_innovations_in_healthcare_2025",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/technology_innovations_in_healthcare_2025 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-179",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/get_set_grow_summit_2024 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/get_set_grow_summit_2024",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/get_set_grow_summit_2024 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-180",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/heart_to_heart_2024 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/heart_to_heart_2024",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/heart_to_heart_2024 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-181",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/the_edge_of_nutrition_delhi_2024 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/the_edge_of_nutrition_delhi_2024",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/the_edge_of_nutrition_delhi_2024 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-182",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/the_edge_of_nutrition_bengaluru_2024 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/the_edge_of_nutrition_bengaluru_2024",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/the_edge_of_nutrition_bengaluru_2024 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-183",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/move_summit resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/move_summit",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/move_summit (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-184",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/women_wellness_summit resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/women_wellness_summit",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/women_wellness_summit (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-185",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/mind_matters_2023_ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/mind_matters_2023_",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/mind_matters_2023_ (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-186",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/get-set-grow-2023 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/get-set-grow-2023",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/get-set-grow-2023 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-187",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/the-edge-of-nutrition-2023 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/the-edge-of-nutrition-2023",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/the-edge-of-nutrition-2023 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-188",
+      "description": "Internal link https://www.happiesthealth.com/wellness_summit/future-of-medicine resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/wellness_summit/future-of-medicine",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /wellness_summit/future-of-medicine (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-189",
+      "description": "Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-190",
+      "description": "Internal link https://www.happiesthealth.com/about-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/about-us",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /about-us (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-191",
+      "description": "Internal link https://www.happiesthealth.com/contact-us resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/contact-us",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /contact-us (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-192",
+      "description": "Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/privacy-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /privacy-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-193",
+      "description": "Internal link https://www.happiesthealth.com/editorial-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/editorial-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /editorial-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-194",
+      "description": "Internal link https://www.happiesthealth.com/cancellation-and-refund-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/cancellation-and-refund-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /cancellation-and-refund-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-195",
+      "description": "Internal link https://www.happiesthealth.com/careers resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/careers",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-196",
+      "description": "Internal link https://www.happiesthealth.com/shipping-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/shipping-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /shipping-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-197",
+      "description": "Internal link https://www.happiesthealth.com/magazine-feedback resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/magazine-feedback",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /magazine-feedback (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-198",
+      "description": "Internal link https://www.happiesthealth.com/faqs resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/faqs",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /faqs (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-199",
+      "description": "Internal link https://www.happiesthealth.com/terms-of-use resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/terms-of-use",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /terms-of-use (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-200",
+      "description": "Internal link https://www.happiesthealth.com/advertising-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/advertising-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /advertising-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-201",
+      "description": "Internal link https://www.happiesthealth.com/leadership resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/leadership",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /leadership (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-202",
+      "description": "Internal link https://www.happiesthealth.com/investors resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/investors",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /investors (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "form-fields-203",
+      "description": "Form on https://www.happiesthealth.com/wellnessprograms has fields and can be validated for required fields",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "failed",
+      "details": {
+        "required_fields": [],
+        "info": "No explicitly required fields detected."
+      },
+      "passed": false
+    },
+    {
+      "id": "buttons-count-204",
+      "description": "Page https://www.happiesthealth.com/wellnessprograms has 10 button(s)",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "passed",
+      "details": null,
+      "passed": true
+    },
+    {
+      "id": "page-status-205",
+      "description": "Page https://www.happiesthealth.com/login returns 200 or 2xx status code",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /login (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-206",
+      "description": "Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/privacy-policy",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /privacy-policy (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "internal-link-207",
+      "description": "Internal link https://www.happiesthealth.com/terms-of-use-2 resolves successfully (status 200-399)",
+      "target": "https://www.happiesthealth.com/terms-of-use-2",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='www.happiesthealth.com', port=443): Max retries exceeded with url: /terms-of-use-2 (Caused by NameResolutionError(\"HTTPSConnection(host='www.happiesthealth.com', port=443): Failed to resolve 'www.happiesthealth.com' ([Errno 11001] getaddrinfo failed)\"))",
+      "passed": false
+    },
+    {
+      "id": "buttons-count-208",
+      "description": "Page https://www.happiesthealth.com/login has 1 button(s)",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "passed",
+      "details": null,
+      "passed": true
+    },
+    {
+      "id": "smart-form-submit-1",
+      "description": "Submit form on https://www.happiesthealth.com with sample data",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-2",
+      "description": "Click button 'Previous' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-3",
+      "description": "Click button 'Next' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-4",
+      "description": "Click button '1' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-5",
+      "description": "Click button '2' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-6",
+      "description": "Click button '3' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-7",
+      "description": "Click button '4' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-8",
+      "description": "Click button '5' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-9",
+      "description": "Click button '6' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-10",
+      "description": "Click button 'Article' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-11",
+      "description": "Click button 'Article' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-12",
+      "description": "Click button 'Article' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-13",
+      "description": "Click button 'Article' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-14",
+      "description": "Click button 'Podcast' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-15",
+      "description": "Click button 'Podcast' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-16",
+      "description": "Click button 'Podcast' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-17",
+      "description": "Click button 'Video' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-18",
+      "description": "Click button 'Video' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-19",
+      "description": "Click button 'Video' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-20",
+      "description": "Click button 'Past Summits' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-21",
+      "description": "Click button 'Previous' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-22",
+      "description": "Click button 'Next' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-23",
+      "description": "Click button 'Vote' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-24",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-25",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-26",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-27",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-28",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-29",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-30",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-31",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-32",
+      "description": "Click button 'REJECT' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-33",
+      "description": "Click button 'ACCEPT' on https://www.happiesthealth.com",
+      "target": "https://www.happiesthealth.com",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-form-submit-34",
+      "description": "Submit form on https://www.happiesthealth.com/ with sample data",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-35",
+      "description": "Click button 'Previous' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-36",
+      "description": "Click button 'Next' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-37",
+      "description": "Click button '1' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-38",
+      "description": "Click button '2' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-39",
+      "description": "Click button '3' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-40",
+      "description": "Click button '4' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-41",
+      "description": "Click button '5' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-42",
+      "description": "Click button '6' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-43",
+      "description": "Click button 'Article' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-44",
+      "description": "Click button 'Article' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-45",
+      "description": "Click button 'Article' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-46",
+      "description": "Click button 'Article' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-47",
+      "description": "Click button 'Podcast' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-48",
+      "description": "Click button 'Podcast' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-49",
+      "description": "Click button 'Podcast' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-50",
+      "description": "Click button 'Video' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-51",
+      "description": "Click button 'Video' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-52",
+      "description": "Click button 'Video' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-53",
+      "description": "Click button 'Past Summits' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-54",
+      "description": "Click button 'Previous' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-55",
+      "description": "Click button 'Next' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-56",
+      "description": "Click button 'Vote' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-57",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-58",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-59",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-60",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-61",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-62",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-63",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-64",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-65",
+      "description": "Click button 'REJECT' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-66",
+      "description": "Click button 'ACCEPT' on https://www.happiesthealth.com/",
+      "target": "https://www.happiesthealth.com/",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/\nCall log:\n  - navigating to \"https://www.happiesthealth.com/\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-form-submit-67",
+      "description": "Submit form on https://www.happiesthealth.com/magazine-subscription with sample data",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-68",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-69",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-70",
+      "description": "Click button 'PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-71",
+      "description": "Click button 'E-MAG' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-72",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-73",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-74",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-75",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-76",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-77",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-78",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-79",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-80",
+      "description": "Click button 'TALK TO US' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-81",
+      "description": "Click button 'TALK TO US' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-82",
+      "description": "Click button 'Buy E-Mag' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-83",
+      "description": "Click button 'Buy Print' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-84",
+      "description": "Click button 'BUY E-MAG' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-85",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-86",
+      "description": "Click button 'EXPLORE SUBSCRIPTION' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-87",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-88",
+      "description": "Click button 'Read More' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-89",
+      "description": "Click button 'BUY E-MAG' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-90",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-91",
+      "description": "Click button 'Read More' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-92",
+      "description": "Click button 'BUY E-MAG' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-93",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-94",
+      "description": "Click button 'Read More' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-95",
+      "description": "Click button 'BUY E-MAG' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-96",
+      "description": "Click button 'BUY PRINT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-97",
+      "description": "Click button 'A standout publication\n\nThe layout is superb, the write-ups are of high quality, the editing is precise, and the magazine is pleasing to the eye and mind.\n\nFrancis James' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-98",
+      "description": "Click button 'Full of practical knowledge\n\nThe article on how knitting can have therapeutic value was very interesting and showed how reviving our available resources can combat stress.\n\nShubha Singh' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-99",
+      "description": "Click button 'Something special for everyone\n\nI found Happiest Health at my doctor's reception. This magazine is useful for all age groups, especially health-conscious people.\n\nYashendra Nayyar' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-100",
+      "description": "Click button 'EXPLORE SUBSCRIPTION' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-101",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-102",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-103",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-104",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-105",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-106",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-107",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-108",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-109",
+      "description": "Click button 'REJECT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-110",
+      "description": "Click button 'ACCEPT' on https://www.happiesthealth.com/magazine-subscription",
+      "target": "https://www.happiesthealth.com/magazine-subscription",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/magazine-subscription\nCall log:\n  - navigating to \"https://www.happiesthealth.com/magazine-subscription\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-form-submit-111",
+      "description": "Submit form on https://www.happiesthealth.com/wellnessprograms with sample data",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-112",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-113",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-114",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-115",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-116",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-117",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-118",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-119",
+      "description": "Click button 'no-text' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-120",
+      "description": "Click button 'REJECT' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-121",
+      "description": "Click button 'ACCEPT' on https://www.happiesthealth.com/wellnessprograms",
+      "target": "https://www.happiesthealth.com/wellnessprograms",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/wellnessprograms\nCall log:\n  - navigating to \"https://www.happiesthealth.com/wellnessprograms\", waiting until \"load\"\n",
+      "passed": false
+    },
+    {
+      "id": "smart-button-click-122",
+      "description": "Click button 'GET OTP' on https://www.happiesthealth.com/login",
+      "target": "https://www.happiesthealth.com/login",
+      "status": "error",
+      "details": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.happiesthealth.com/login\nCall log:\n  - navigating to \"https://www.happiesthealth.com/login\", waiting until \"load\"\n",
+      "passed": false
+    }
+  ]
+}

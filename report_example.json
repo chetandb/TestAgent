@@ -1,0 +1,26 @@
+{
+  "start_url": "https://example.com",
+  "pages_explored": 1,
+  "cases_executed": 2,
+  "passed": 0,
+  "failed": 0,
+  "errors": 2,
+  "details": [
+    {
+      "id": "load-start-url",
+      "description": "Start URL loads without network error: https://example.com",
+      "target": "https://example.com",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))",
+      "passed": false
+    },
+    {
+      "id": "page-status-2",
+      "description": "Page https://example.com returns 200 or 2xx status code",
+      "target": "https://example.com",
+      "status": "error",
+      "details": "HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))",
+      "passed": false
+    }
+  ]
+}

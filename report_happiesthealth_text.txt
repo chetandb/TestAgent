@@ -1,0 +1,288 @@
+Website Test Report for: https://www.happiesthealth.com
+Pages explored: 2
+Test cases executed: 141
+Passed: 135
+Failed: 6
+Errors: 0
+
+Test case results:
+- [passed] load-start-url | Start URL loads without network error: https://www.happiesthealth.com | target=https://www.happiesthealth.com | passed=True
+  details: {'http_status': 200}
+- [passed] page-status-2 | Page https://www.happiesthealth.com returns 200 or 2xx status code | target=https://www.happiesthealth.com | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-3 | Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399) | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-4 | Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399) | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-5 | Internal link https://www.happiesthealth.com/magazine-subscription resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-6 | Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399) | target=https://www.happiesthealth.com/wellnessprograms | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-7 | Internal link https://www.happiesthealth.com/login resolves successfully (status 200-399) | target=https://www.happiesthealth.com/login | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-8 | Internal link https://www.happiesthealth.com/all-categories resolves successfully (status 200-399) | target=https://www.happiesthealth.com/all-categories | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-9 | Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-10 | Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-11 | Internal link https://www.happiesthealth.com/premium-newsletter/diabetes resolves successfully (status 200-399) | target=https://www.happiesthealth.com/premium-newsletter/diabetes | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-12 | Internal link https://www.happiesthealth.com/healthcards resolves successfully (status 200-399) | target=https://www.happiesthealth.com/healthcards | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-13 | Internal link https://www.happiesthealth.com/discussions resolves successfully (status 200-399) | target=https://www.happiesthealth.com/discussions | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-14 | Internal link https://www.happiesthealth.com/editors-pick-2 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/editors-pick-2 | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-15 | Internal link https://www.happiesthealth.com/magazine-subscription/all-magazines resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription/all-magazines | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-16 | Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-17 | Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 | passed=True
+  details: {'http_status': 200}
+- [failed] internal-link-18 | Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1 | passed=False
+  details: {'http_status': 403}
+- [failed] internal-link-19 | Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1 | passed=False
+  details: {'http_status': 403}
+- [passed] internal-link-20 | Internal link https://www.happiesthealth.com/askanexpert resolves successfully (status 200-399) | target=https://www.happiesthealth.com/askanexpert | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-21 | Internal link https://www.happiesthealth.com/askanexpert/postquery resolves successfully (status 200-399) | target=https://www.happiesthealth.com/askanexpert/postquery | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-22 | Internal link https://www.happiesthealth.com/webstory-landing resolves successfully (status 200-399) | target=https://www.happiesthealth.com/webstory-landing | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-23 | Internal link https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-24 | Internal link https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-25 | Internal link https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-26 | Internal link https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-27 | Internal link https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-28 | Internal link https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-29 | Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-30 | Internal link https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-31 | Internal link https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-32 | Internal link https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-33 | Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-34 | Internal link https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-35 | Internal link https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-36 | Internal link https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-37 | Internal link https://www.happiesthealth.com/quiz-listing resolves successfully (status 200-399) | target=https://www.happiesthealth.com/quiz-listing | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-38 | Internal link https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases resolves successfully (status 200-399) | target=https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-39 | Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399) | target=https://www.happiesthealth.com/wellnessprograms | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-40 | Internal link https://www.happiesthealth.com/testimonials resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-41 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-42 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-43 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-44 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-45 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-46 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-47 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-48 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-49 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-50 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-51 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-52 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-53 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-54 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-55 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-56 | Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399) | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-57 | Internal link https://www.happiesthealth.com/about-us resolves successfully (status 200-399) | target=https://www.happiesthealth.com/about-us | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-58 | Internal link https://www.happiesthealth.com/contact-us resolves successfully (status 200-399) | target=https://www.happiesthealth.com/contact-us | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-59 | Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/privacy-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-60 | Internal link https://www.happiesthealth.com/editorial-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/editorial-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-61 | Internal link https://www.happiesthealth.com/cancellation-and-refund-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/cancellation-and-refund-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-62 | Internal link https://www.happiesthealth.com/careers resolves successfully (status 200-399) | target=https://www.happiesthealth.com/careers | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-63 | Internal link https://www.happiesthealth.com/shipping-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/shipping-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-64 | Internal link https://www.happiesthealth.com/magazine-feedback resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-feedback | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-65 | Internal link https://www.happiesthealth.com/faqs resolves successfully (status 200-399) | target=https://www.happiesthealth.com/faqs | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-66 | Internal link https://www.happiesthealth.com/terms-of-use resolves successfully (status 200-399) | target=https://www.happiesthealth.com/terms-of-use | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-67 | Internal link https://www.happiesthealth.com/advertising-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/advertising-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-68 | Internal link https://www.happiesthealth.com/leadership resolves successfully (status 200-399) | target=https://www.happiesthealth.com/leadership | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-69 | Internal link https://www.happiesthealth.com/investors resolves successfully (status 200-399) | target=https://www.happiesthealth.com/investors | passed=True
+  details: {'http_status': 200}
+- [failed] form-fields-70 | Form on https://www.happiesthealth.com has fields and can be validated for required fields | target=https://www.happiesthealth.com | passed=False
+  details: {'required_fields': [], 'info': 'No explicitly required fields detected.'}
+- [passed] buttons-count-71 | Page https://www.happiesthealth.com has 32 button(s) | target=https://www.happiesthealth.com | passed=True
+- [passed] page-status-72 | Page https://www.happiesthealth.com/ returns 200 or 2xx status code | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-73 | Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399) | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-74 | Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399) | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-75 | Internal link https://www.happiesthealth.com/magazine-subscription resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-76 | Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399) | target=https://www.happiesthealth.com/wellnessprograms | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-77 | Internal link https://www.happiesthealth.com/login resolves successfully (status 200-399) | target=https://www.happiesthealth.com/login | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-78 | Internal link https://www.happiesthealth.com/all-categories resolves successfully (status 200-399) | target=https://www.happiesthealth.com/all-categories | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-79 | Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-80 | Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-81 | Internal link https://www.happiesthealth.com/premium-newsletter/diabetes resolves successfully (status 200-399) | target=https://www.happiesthealth.com/premium-newsletter/diabetes | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-82 | Internal link https://www.happiesthealth.com/healthcards resolves successfully (status 200-399) | target=https://www.happiesthealth.com/healthcards | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-83 | Internal link https://www.happiesthealth.com/discussions resolves successfully (status 200-399) | target=https://www.happiesthealth.com/discussions | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-84 | Internal link https://www.happiesthealth.com/editors-pick-2 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/editors-pick-2 | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-85 | Internal link https://www.happiesthealth.com/magazine-subscription/all-magazines resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription/all-magazines | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-86 | Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-87 | Internal link https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-subscription/reader?id=9004111222911223 | passed=True
+  details: {'http_status': 200}
+- [failed] internal-link-88 | Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/checkout?add-to-cart=9004111222911223&quantity=1 | passed=False
+  details: {'http_status': 403}
+- [failed] internal-link-89 | Internal link https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1 resolves successfully (status 200-399) | target=https://www.happiesthealth.com/checkout?add-to-cart=9004111222911243&quantity=1 | passed=False
+  details: {'http_status': 403}
+- [passed] internal-link-90 | Internal link https://www.happiesthealth.com/askanexpert resolves successfully (status 200-399) | target=https://www.happiesthealth.com/askanexpert | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-91 | Internal link https://www.happiesthealth.com/askanexpert/postquery resolves successfully (status 200-399) | target=https://www.happiesthealth.com/askanexpert/postquery | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-92 | Internal link https://www.happiesthealth.com/webstory-landing resolves successfully (status 200-399) | target=https://www.happiesthealth.com/webstory-landing | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-93 | Internal link https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/longevity-foods-that-could-keep-you-healthy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-94 | Internal link https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/the-diet-that-keeps-your-brain-young | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-95 | Internal link https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/upcoming-lineup-of-hybrid-weight-loss-drugs | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-96 | Internal link https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/8-tips-for-healthy-aging | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-97 | Internal link https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/rising-temperatures-increase-physical-inactivity | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-98 | Internal link https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust resolves successfully (status 200-399) | target=https://www.happiesthealth.com/web-stories/wellness-hub-how-to-build-trust | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-99 | Internal link https://www.happiesthealth.com/podcasts resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-100 | Internal link https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts/food-and-nutrition/rice-roti-or-neither-for-your-weight-loss-journey | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-101 | Internal link https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts/sleep/how-not-to-feel-hungry-at-midnight | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-102 | Internal link https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits resolves successfully (status 200-399) | target=https://www.happiesthealth.com/podcasts/ayurveda/navel-oiling-and-its-benefits | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-103 | Internal link https://www.happiesthealth.com/videos resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-104 | Internal link https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos/general/hemophilia-warrior-dr-suresh-hanagavadi | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-105 | Internal link https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos/food-and-nutrition/6-signs-of-protein-deficiency | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-106 | Internal link https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs resolves successfully (status 200-399) | target=https://www.happiesthealth.com/videos/food-and-nutrition/all-you-need-to-know-about-eggs | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-107 | Internal link https://www.happiesthealth.com/quiz-listing resolves successfully (status 200-399) | target=https://www.happiesthealth.com/quiz-listing | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-108 | Internal link https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases resolves successfully (status 200-399) | target=https://www.happiesthealth.com/quiz-details-page?quiz_id=41&cat_name=Infectious diseases | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-109 | Internal link https://www.happiesthealth.com/wellnessprograms resolves successfully (status 200-399) | target=https://www.happiesthealth.com/wellnessprograms | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-110 | Internal link https://www.happiesthealth.com/testimonials resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-111 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-112 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-113 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-114 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-115 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-116 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-117 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-118 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-119 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-120 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-121 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-122 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-123 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-124 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-125 | Internal link https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream resolves successfully (status 200-399) | target=https://www.happiesthealth.com/testimonials/athira-sugathan-amnesia-ias-dream | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-126 | Internal link https://www.happiesthealth.com/ resolves successfully (status 200-399) | target=https://www.happiesthealth.com/ | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-127 | Internal link https://www.happiesthealth.com/about-us resolves successfully (status 200-399) | target=https://www.happiesthealth.com/about-us | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-128 | Internal link https://www.happiesthealth.com/contact-us resolves successfully (status 200-399) | target=https://www.happiesthealth.com/contact-us | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-129 | Internal link https://www.happiesthealth.com/privacy-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/privacy-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-130 | Internal link https://www.happiesthealth.com/editorial-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/editorial-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-131 | Internal link https://www.happiesthealth.com/cancellation-and-refund-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/cancellation-and-refund-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-132 | Internal link https://www.happiesthealth.com/careers resolves successfully (status 200-399) | target=https://www.happiesthealth.com/careers | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-133 | Internal link https://www.happiesthealth.com/shipping-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/shipping-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-134 | Internal link https://www.happiesthealth.com/magazine-feedback resolves successfully (status 200-399) | target=https://www.happiesthealth.com/magazine-feedback | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-135 | Internal link https://www.happiesthealth.com/faqs resolves successfully (status 200-399) | target=https://www.happiesthealth.com/faqs | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-136 | Internal link https://www.happiesthealth.com/terms-of-use resolves successfully (status 200-399) | target=https://www.happiesthealth.com/terms-of-use | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-137 | Internal link https://www.happiesthealth.com/advertising-policy resolves successfully (status 200-399) | target=https://www.happiesthealth.com/advertising-policy | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-138 | Internal link https://www.happiesthealth.com/leadership resolves successfully (status 200-399) | target=https://www.happiesthealth.com/leadership | passed=True
+  details: {'http_status': 200}
+- [passed] internal-link-139 | Internal link https://www.happiesthealth.com/investors resolves successfully (status 200-399) | target=https://www.happiesthealth.com/investors | passed=True
+  details: {'http_status': 200}
+- [failed] form-fields-140 | Form on https://www.happiesthealth.com/ has fields and can be validated for required fields | target=https://www.happiesthealth.com/ | passed=False
+  details: {'required_fields': [], 'info': 'No explicitly required fields detected.'}
+- [passed] buttons-count-141 | Page https://www.happiesthealth.com/ has 32 button(s) | target=https://www.happiesthealth.com/ | passed=True
