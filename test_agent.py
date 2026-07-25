@@ -7,7 +7,13 @@ import time
 import urllib.parse
 
 import requests
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+try:
+    from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+    PLAYWRIGHT_AVAILABLE = True
+except Exception:
+    async_playwright = None
+    PlaywrightTimeoutError = Exception
+    PLAYWRIGHT_AVAILABLE = False
 
 
 class WebsiteTestAgent:
